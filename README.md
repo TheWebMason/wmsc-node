@@ -1,5 +1,5 @@
 # WebMason Smart Chain Node (WMSC Node)
-_Based on [Polygon (previously Matic) Bor](https://github.com/maticnetwork/bor)_
+_Based on [Polygon (previously Matic) Bor](https://github.com/maticnetwork/bor)._
 
 WMSC Node is the Official Golang implementation of the WebMason Smart Chain. It is a fork of Go Ethereum - https://github.com/ethereum/go-ethereum and EVM compabile.
 
